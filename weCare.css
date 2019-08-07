@@ -57,13 +57,10 @@ body {
 
 
 #image1 {
+  float:right;
 
-  width: 400px;
-  height:200px;
 }
 
 #image2 {
-
-  width: 400px;
-  height:200px;
+  float:center;
 }
