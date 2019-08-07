@@ -52,25 +52,9 @@ p{
   float:right;
 }
 
-#image1 {
-  height:230px;
-  width:280px;
-  float:right;
-}
 
 #image3 {
   height:330px;
   width:500px;
   float:center;
-}
-
-#image4 {
-  float: left;
-  height:400px;
-  width:270px;
-
-}
-
-#better {
-  float:left;
 }
