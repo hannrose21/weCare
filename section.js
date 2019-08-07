@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //
+=======
+// 
+>>>>>>> Tips and Tricks on how to care for your Hair
 // var image = document.getElementById("changeMe");
 // var origHeight = image.height;
 // var origWidth = image.width;
