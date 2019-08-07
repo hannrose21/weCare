@@ -32,7 +32,7 @@ img{
 }
 
 h3{
-
+  text-align: center;
   font-size: 30px;
   font-weight: bolder;
   color: pink;
@@ -42,7 +42,7 @@ h3{
 p{
   color:aliceblue;
   font-family: arial;
-  text-align: left;
+  text-align: center;
   font-size: 21px;
   font-weight:bold;
 }
@@ -52,30 +52,9 @@ p{
   float:right;
 }
 
-#image1 {
-  height:230px;
-  width:280px;
-
-}
 
 #image3 {
-  height:125%;
-  width:90%;
+  height:330px;
+  width:500px;
   float:center;
-}
-
-#image4 {
-  float: left;
-  height:400px;
-  width:270px;
-
-}
-.row{
-  display: flex;
-  width: 100%;
-  table-layout:fixed;
-}
-
-*{
-  box-sizing: border-box;
 }

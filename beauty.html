@@ -2,7 +2,7 @@
 <html>
     <head>
 
-    <title> Beauty page </title>
+    <title> Hannah's Page</title>
     <link rel="stylesheet" href="beauty.css">
 
 
@@ -12,40 +12,19 @@
 
 <h2> <button onclick="goBack()">Back</button> </h2>
 
-<style>
-* {
-  box-sizing: border-box;
+<script>
+function goBack() {
+  window.history.back();
 }
+</script>
 
 
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px; 
-}
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<body>
 
-<h3></h3>
-
-<div class="row">
-  <div class="column" >
-    <h2>Hair Care</h2>
-    <p> </p>
-  </div>
-  <div class="column">
-    <h2>Skin Care</h2>
-    <p></p>
-  </div>
 
 
 </body>
+<script src="beauty.js"></script>
+
+
 </html>
