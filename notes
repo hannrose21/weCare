@@ -1,0 +1,21 @@
+.center {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 200px;
+}
+
+#i1{
+    padding-right: 30px;
+  }
+
+#i2{
+  padding-left: 300px;
+  padding-right: 40px;
+}
+
+#i3{
+  padding-left: 380px;
+  padding-right: 0px;
+}
