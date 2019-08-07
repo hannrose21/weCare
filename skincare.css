@@ -1,0 +1,19 @@
+body {
+  background-image: url("peach.jpg");
+}
+h1{
+  font-family: serif;
+  color: lightskyblue;
+  text-align: center;
+  background: black;
+
+}
+
+h2{
+  background-color:black;
+  color: white;
+  padding: 19px;
+  font-size: 19px;
+  font-family: serif;
+
+}
