@@ -10,33 +10,29 @@ h2{
   text-align: center;
   font-size: 40px;
   font-family: fantasy;
-  color: yellow;
-  background: black;
+
 }
-
-
 
 h3{
   text-align: center;
-  font-size: 35px;
+  font-size: 30px;
   font-family: fantasy;
+
 }
 p{
   text-align: left;
-  font-size: 28px;
-  font-family: Blippo fantasy;
-  padding-top: 0.3%;
-  font-family: bold;
-  font-weight: 450;
-}
+  font-size: 15px;
+  font-style: bold;
+  font-family: sans-serif;
 
+  padding-top: 0.3%;
+  font-weight: 750;
+}
 p1{
   font-size: 22px;
   font-style: bold;
   font-weight: 900;
   font-family: serif;
-  background-color: black;
-  color:mistyrose;
 }
 
 p2{
@@ -44,31 +40,12 @@ p2{
   font-style: bold;
   font-weight: 900;
   font-family: serif;
-  background-color: black;
-  color:mistyrose;
-
-}
-
-p3{
-  font-size: 25px;
-  font-style: bold;
-  font-weight: 900;
-  font-family: serif;
-}
-p8{
-
-  font-weight: 700;
-  font-size: 22px;
-
-
 }
 h4{
   text-align: left;
   font-size: 25px;
   font-family: sans-serif;
   font-weight: 900;
-  background-color: black;
-  color:coral;
 
 }
 
@@ -76,27 +53,16 @@ h5{
   text-align: left;
   font-size: 25px;
   font-family: sans-serif;
-  background-color: black;
+  background-image: url("pink.jpg");
   font-weight: 900;
-  ba;
-  color:coral;
 }
 
 h6{
   text-align: left;
   font-size: 25px;
   font-family: sans-serif;
-  background-color: black;
+  background-image: url("pink.jpg");
   font-weight: 900;
-  color: coral;
-
-}
-
-a{
-  font-size: 23px;
-  font-family: sans-serif;
-  padding-top: 0.3%;
-
 }
 
 #i1{
@@ -112,25 +78,4 @@ a{
 #i3{
   padding-left: 200px;
   padding-right: 0px;
-}
-
-.row{
-  display: flex;
-  width: 100%;
-  table-layout: fixed;
-}
-
-*{
-  box-sizing: border-box;
-}
-
-p0{
-  text-align: left;
-  font-size: 28px;
-  padding-bottom: 300%;
-  font-family: Blippo fantasy;
-  padding-top: 0.3%;
-  font-family: bold;
-  font-weight: 400;
-
 }
