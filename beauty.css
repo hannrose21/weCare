@@ -1,0 +1,9 @@
+h1 {
+  font-family: serif;
+  color: lightskyblue;
+  text-align: center;
+  background: white;
+}
+body {
+  background-image: url("oceanblue.jpg");
+}
