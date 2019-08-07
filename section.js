@@ -1,4 +1,4 @@
-//
+// 
 // var image = document.getElementById("changeMe");
 // var origHeight = image.height;
 // var origWidth = image.width;
