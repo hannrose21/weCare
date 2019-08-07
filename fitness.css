@@ -1,0 +1,81 @@
+
+div{
+  background-image: url("pink.jpg");
+
+}
+html {
+  background-image: url("pink.jpg");
+}
+h2{
+  text-align: center;
+  font-size: 40px;
+  font-family: fantasy;
+
+}
+
+h3{
+  text-align: center;
+  font-size: 30px;
+  font-family: fantasy;
+
+}
+p{
+  text-align: left;
+  font-size: 15px;
+  font-style: bold;
+  font-family: sans-serif;
+
+  padding-top: 0.3%;
+  font-weight: 750;
+}
+p1{
+  font-size: 22px;
+  font-style: bold;
+  font-weight: 900;
+  font-family: serif;
+}
+
+p2{
+  font-size: 22px;
+  font-style: bold;
+  font-weight: 900;
+  font-family: serif;
+}
+h4{
+  text-align: left;
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: 900;
+
+}
+
+h5{
+  text-align: left;
+  font-size: 25px;
+  font-family: sans-serif;
+  background-image: url("pink.jpg");
+  font-weight: 900;
+}
+
+h6{
+  text-align: left;
+  font-size: 25px;
+  font-family: sans-serif;
+  background-image: url("pink.jpg");
+  font-weight: 900;
+}
+
+#i1{
+    padding-right: 100px;
+  }
+
+#i2{
+  padding-left: 100px;
+  padding-right: 40px;
+  image-orientation: center;
+}
+
+#i3{
+  padding-left: 200px;
+  padding-right: 0px;
+}
