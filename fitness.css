@@ -10,12 +10,15 @@ h2{
   text-align: center;
   font-size: 40px;
   font-family: fantasy;
-
+  color: White;
+  background: black;
 }
+
+
 
 h3{
   text-align: center;
-  font-size: 30px;
+  font-size: 35px;
   font-family: fantasy;
 
 }
@@ -41,6 +44,20 @@ p2{
   font-weight: 900;
   font-family: serif;
 }
+
+p3{
+  font-size: 22px;
+  font-style: bold;
+  font-weight: 900;
+  font-family: serif;
+}
+p8{
+
+  font-weight: 700;
+  font-size: 22px;
+
+
+}
 h4{
   text-align: left;
   font-size: 25px;
@@ -63,6 +80,14 @@ h6{
   font-family: sans-serif;
   background-image: url("pink.jpg");
   font-weight: 900;
+
+}
+
+a{
+  font-size: 23px;
+  font-family: sans-serif;
+  padding-top: 0.3%;
+
 }
 
 #i1{
@@ -78,4 +103,23 @@ h6{
 #i3{
   padding-left: 200px;
   padding-right: 0px;
+}
+
+.row{
+  display: flex;
+  width: 100%;
+  table-layout: fixed;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+p0{
+  text-align: left;
+  font-size: 15px;
+  font-weight:bold;
+  font-family: sans-serif;
+  padding-bottom: 300%;
+
 }
