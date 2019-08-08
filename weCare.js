@@ -19,3 +19,7 @@ function myMenu(){
 function myBeauty2(){
   document.getElementById("both").classList.toggle("show");
 }
+
+function myHealth(){
+  document.getElementById("fitness").classList.toggle("show");
+}
