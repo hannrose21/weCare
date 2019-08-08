@@ -34,7 +34,7 @@ h1{
 }
 
 #diy3{
-  text-align: center;
+  text-align:left;
   color: black;
   font-size: 26px;
   font-weight: bold;
@@ -50,17 +50,43 @@ img{
   height: 450px;
   text-align: center;
 }
-
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-
 .larger{
   font-size: 100px
 }
 .big{
   font-size: 65px
+}
+
+.column {
+  float: left;
+  width: 22%;
+  height: 300px;
+  padding-right: 130px;
+
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  padding-top: 570px;
+}
+
+.zoom {
+  font-size: 35px;
+}
+
+#i1{
+    height: 350px;
+    width: 400px;
+  }
+
+.row2{
+  padding-top: 650px;
 }
