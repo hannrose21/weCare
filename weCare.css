@@ -54,7 +54,11 @@ body {
 .show {display:block;}
 
 
-
+#image0 {
+  width: 620px;
+  height:200px;
+;
+}
 
 #image1 {
 
