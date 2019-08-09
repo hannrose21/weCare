@@ -25,12 +25,14 @@ h1{
   text-align: left;
   font-weight: bold;
   color: black;
+
   font-size: 30px;
 }
 #diy2{
   text-align: left;
   color: black;
   font-size: 24px;
+  background-color: mediumpurple;
 }
 
 #diy3{
@@ -60,7 +62,8 @@ img{
   font-size: 100px
 }
 .big{
-  font-size: 65px
+  font-size: 65px;
+  text-decoration: underline;
 }
 
 .column {

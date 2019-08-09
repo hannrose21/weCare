@@ -1,19 +1,24 @@
 body {
   background-image: url("blue.jpg");
+}
 
+#logo {
+  height:45%;
+  width:20%;
+  float: left;
 }
 h1{
-  font-family: serif;
-  color: pink;
+  font-family: Impact;
+  color: darkslateblue;
   text-align: center;
+  font-size: 60px;
 }
 
 h2{
-
   color: white;
   padding: 19px;
   font-size: 19px;
-  font-family: serif;
+  font-family:arial;
 
 }
 
@@ -35,17 +40,41 @@ h3{
 
   font-size: 30px;
   font-weight: bolder;
-  color: pink;
+  color:darkslateblue;
   text-decoration: underline;
+  font-family: Impact ;
 }
 
-p{
-  color:aliceblue;
-  font-family: arial;
-  text-align: left;
+h4{
+  color:darkslateblue;
   font-size: 21px;
-  font-weight:bold;
+  font-family: Impact ;
 }
+p{
+  color:lavender;
+  font-family: Lucida Grande;
+  text-align: left;
+  font-size: 16px;
+  font-weight:bold;
+  background-color:cornflowerblue;
+}
+
+p1{
+color: darkslateblue;
+font-size: 21px;
+text-decoration: underline;
+font-family: Impact ;
+}
+p2{
+  color:lavender;
+  font-family: Lucida Grande;
+  text-align: left;
+  font-size: 16px;
+  font-weight:bold;
+
+  padding-bottom: 400%;
+}
+
 #image2 {
   height:230px;
   width:280px;
@@ -54,7 +83,7 @@ p{
 
 #image1 {
   height:230px;
-  width:280px;
+  width:270px;
 
 }
 
@@ -65,10 +94,22 @@ p{
 }
 
 #image4 {
-  float: left;
   height:400px;
   width:270px;
 
+}
+
+#image5 {
+  height:210%;
+  width:105%;
+}
+#image7 {
+  height:210%;
+  width:105%;
+}
+#image8 {
+  height:210%;
+  width:105%;
 }
 .row{
   display: flex;
@@ -78,4 +119,31 @@ p{
 
 *{
   box-sizing: border-box;
+}
+
+h5{
+  color: darkslateblue;
+  font-size: 30px;
+  text-decoration: underline;
+  font-family: Impact ;
+
+}
+
+
+h6{
+color: darkslateblue;
+font-size: 30px;
+text-decoration: underline;
+font-family: Impact ;
+}
+
+h7{
+color: darkslateblue;
+font-size: 21px;
+text-decoration: underline;
+font-family: Impact ;
+}
+
+.clear{
+  clear: both;
 }
