@@ -1,9 +1,71 @@
 h1 {
   font-family: serif;
-  color: lightskyblue;
+  color: linen;
   text-align: center;
-  background: white;
+  background: ;
+  font-weight: bold;
+  font-size: 66px;
+  text-decoration: underline;
+  text-decoration-color: linen;
 }
+
+h2{
+  font-family: serif;
+  color: linen;
+  text-align: center;
+  font-weight: 500;
+  font-size: 43px;
+  text-decoration: underline;
+  text-decoration-color: linen;
+  background-color: CornflowerBlue
+
+}
+
 body {
   background-image: url("oceanblue.jpg");
+}
+
+p0{  text-align: left;
+  font-size: 35px;
+  font-family: Georgia, serif;
+    color: linen;
+    font-weight: bold;
+  
+
+
+
+
+}
+p{
+  text-align: left;
+  font-size: 25px;
+  font-family: Georgia, serif;
+    color: black;
+
+    margin: auto;
+    background-color: CornflowerBlue
+}
+p1{
+  text-align: left;
+  font-size: 25px;
+  font-family: Georgia, serif;
+    color: black;
+
+    margin: auto;
+    background-color: CornflowerBlue
+}
+
+
+
+#hr1{
+  padding-left: 10%;
+  height: 350px;
+  width: 600px;
+}
+
+#sk1{
+  padding-left: 10%;
+  height: 350px;
+   width: 600px;
+
 }
