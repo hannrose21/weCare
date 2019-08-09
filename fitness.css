@@ -6,93 +6,83 @@ div{
 html {
   background-image: url("pink.jpg");
 }
-
-h7{
-  text-align: left;
-}
 h2{
   text-align: center;
-  font-size: 40px;
-  font-family: fantasy;
-  color: yellow;
-  background: black;
+  font-size: 63px;
+  font-family: impact;
+  color: brown;
+  font-weight: bold;
 }
-
-
-
 h3{
   text-align: center;
-  font-size: 35px;
-  font-family: fantasy;
+  font-size: 38px;
+font-family: impact;
+  color: brown;
 }
 p{
   text-align: left;
-  font-size: 28px;
+  font-size: 26px;
   font-family: Blippo fantasy;
   padding-top: 0.3%;
   font-family: bold;
   font-weight: 450;
+  background-color: thistle;
 }
 
 p1{
-  font-size: 22px;
-  font-style: bold;
-  font-weight: 900;
+  font-size: 28px;
+  font-weight:bold;
   font-family: serif;
-  background-color: black;
-  color:mistyrose;
+  color:mediumblue;
 }
 
 p2{
-  font-size: 22px;
-  font-style: bold;
-  font-weight: 900;
+  font-size: 28px;
+  font-weight: bold;
   font-family: serif;
-  background-color: black;
-  color:mistyrose;
+
+  color:mediumblue;
 
 }
 
 p3{
-  font-size: 25px;
+  font-size: 28px;
   font-style: bold;
   font-weight: 900;
   font-family: serif;
+  background-color: thistle;
 }
 p8{
 
   font-weight: 700;
-  font-size: 22px;
+  font-size: 28px;
 
 
 }
 h4{
   text-align: left;
-  font-size: 25px;
+  font-size: 30px;
   font-family: sans-serif;
-  font-weight: 900;
-  background-color: black;
-  color:coral;
+  font-weight: bold;
+  color:indigo;
 
 }
 
 h5{
   text-align: left;
-  font-size: 25px;
+  font-size: 30px;
   font-family: sans-serif;
-  background-color: black;
-  font-weight: 900;
-  ba;
-  color:coral;
+  font-weight: bold;
+  color: indigo;
 }
 
 h6{
   text-align: left;
-  font-size: 25px;
+  font-size: 30px;
   font-family: sans-serif;
-  background-color: black;
-  font-weight: 900;
-  color: coral;
+  font-weight: bold;
+  color: indigo;
+
 
 }
 
@@ -101,27 +91,30 @@ a{
   font-family: sans-serif;
   padding-top: 0.3%;
 
+  background-color: violet;
+  color: black
+
 }
 
 #i1{
-    padding-right: 100px;
+    padding-left: 3%;
+    padding-right: 8%;
   }
 
 #i2{
-  padding-left: 100px;
-  padding-right: 40px;
+  padding-left: 2%;
+  padding-right: 3%;
   image-orientation: center;
 }
 
 #i3{
-  padding-left: 200px;
-  padding-right: 0px;
+  padding-left: 8%;
+
 }
 
 .row{
-  display: flex;
-  width: 100%;
-  table-layout: fixed;
+  table-layout: fixed ;
+  width: 300%;
 }
 
 *{
@@ -129,12 +122,12 @@ a{
 }
 
 p0{
-  text-align: left;
   font-size: 28px;
-  padding-bottom: 300%;
-  font-family: Blippo fantasy;
-  padding-top: 0.3%;
-  font-family: bold;
-  font-weight: 400;
+  font-weight:bold;
+  font-family: serif;
+  color:mediumblue;
+  padding-bottom: 250%
+}
+
 
 }
