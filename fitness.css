@@ -1,87 +1,106 @@
 
 div{
-  background-image: url("pink.jpg");
+  background-image: url("oceanblue.jpg");
 
 }
 html {
-  background-image: url("pink.jpg");
+  background-image: url("oceanblue.jpg");
 }
 h2{
   text-align: center;
   font-size: 63px;
   font-family: impact;
-  color: brown;
+  color: lightcyan;
   font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: lightcyan;
 }
 h3{
   text-align: center;
-  font-size: 38px;
+  font-size: 35px;
 font-family: impact;
-  color: brown;
+  color: lightcyan;
+  text-decoration: underline;
+  text-decoration-color: lightcyan;
 }
 p{
   text-align: left;
-  font-size: 26px;
+  font-size: 21px;
   font-family: Blippo fantasy;
   padding-top: 0.3%;
   font-family: bold;
-  font-weight: 450;
-  background-color: thistle;
+  font-weight: 500;
+  background-color: cornflowerblue;
 }
 
 p1{
-  font-size: 28px;
+  font-size: 23px;
   font-weight:bold;
   font-family: serif;
-  color:mediumblue;
+  color:black;
 }
 
 p2{
-  font-size: 28px;
+  font-size: 23px;
   font-weight: bold;
   font-family: serif;
-
-  color:mediumblue;
+  color:black;
 
 }
 
 p3{
-  font-size: 28px;
+  font-size: 23px;
   font-style: bold;
   font-weight: 900;
   font-family: serif;
-  background-color: thistle;
+  background-color: cornflowerblue;
+  padding-left: 10%
 }
 p8{
 
   font-weight: 700;
-  font-size: 28px;
-
+  font-size: 26px;
 
 }
+p4{
+text-align: left;
+font-size: 30px;
+font-family: Blippo fantasy;
+padding-top: 0.3%;
+font-family: bold;
+font-weight: 500;
+background-color: cornflowerblue;
+}
+
 h4{
   text-align: left;
-  font-size: 30px;
+  font-size: 35px;
   font-family: sans-serif;
   font-weight: bold;
-  color:indigo;
+  color:lightcyan;
+  text-decoration: underline;
+  text-decoration-color: lightcyan;
 
 }
 
 h5{
   text-align: left;
-  font-size: 30px;
+  font-size: 35px;
   font-family: sans-serif;
   font-weight: bold;
-  color: indigo;
+  color: lightcyan;
+  text-decoration: underline;
+  text-decoration-color: lightcyan;
 }
 
 h6{
   text-align: left;
-  font-size: 30px;
+  font-size: 35px;
   font-family: sans-serif;
   font-weight: bold;
-  color: indigo;
+  color: lightcyan;
+  text-decoration: underline;
+  text-decoration-color: lightcyan;
 
 
 }
@@ -90,31 +109,38 @@ a{
   font-size: 23px;
   font-family: sans-serif;
   padding-top: 0.3%;
+  font-weight: 450;
 
-  background-color: violet;
+  background-color: dodgerblue;
   color: black
 
 }
 
 #i1{
-    padding-left: 3%;
-    padding-right: 8%;
+    padding-left: 2%;
+    padding-right: 6%;
   }
 
 #i2{
-  padding-left: 2%;
-  padding-right: 3%;
+  padding-left: 8%;
+  padding-right: 2%;
   image-orientation: center;
 }
 
 #i3{
-  padding-left: 8%;
+  padding-left: 10%;
 
 }
+#logo {
+  height:35%;
+  width:15%;
+  float: left;
+}
+
 
 .row{
   table-layout: fixed ;
-  width: 300%;
+  width: 250%;
 }
 
 *{
@@ -122,12 +148,21 @@ a{
 }
 
 p0{
-  font-size: 28px;
+  font-size: 23px;
   font-weight:bold;
   font-family: serif;
-  color:mediumblue;
-  padding-bottom: 250%
+  color:black;
+  padding-bottom: 160%
 }
 
+
+p5{
+  text-align: left;
+  font-size: 24px;
+  font-family: Blippo fantasy;
+  padding-top: 0.3%;
+  font-family: bold;
+  font-weight: 500;
+  background-color: cornflowerblue;
 
 }
