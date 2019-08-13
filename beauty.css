@@ -1,40 +1,35 @@
 h1 {
   font-family: serif;
-  color: linen;
+  color: darkslateblue;
   text-align: center;
   background: ;
   font-weight: bold;
   font-size: 66px;
   text-decoration: underline;
-  text-decoration-color: linen;
+  text-decoration-color: darkslateblue;
 }
 
 h2{
   font-family: serif;
-  color: linen;
+  color: darkslateblue;
   text-align: center;
-  font-weight: 500;
-  font-size: 43px;
+  font-weight: 550;
+  font-size: 42px;
   text-decoration: underline;
-  text-decoration-color: linen;
-  background-color: CornflowerBlue
+  text-decoration-color: darkslateblue;
+  background-color:
 
 }
 
 body {
-  background-image: url("oceanblue.jpg");
+  background-image: url("newfit.jpg");
 }
 
 p0{  text-align: left;
-  font-size: 35px;
+  font-size: 37px;
   font-family: Georgia, serif;
-    color: linen;
+    color: darkslateblue;
     font-weight: bold;
-  
-
-
-
-
 }
 p{
   text-align: left;
@@ -43,18 +38,22 @@ p{
     color: black;
 
     margin: auto;
-    background-color: CornflowerBlue
+    background-color: plum
 }
 p1{
   text-align: left;
   font-size: 25px;
   font-family: Georgia, serif;
     color: black;
-
     margin: auto;
-    background-color: CornflowerBlue
+    background-color:plum
 }
-
+#logo {
+  height:35%;
+  width:15%;
+  float: left;
+  background-color: plum
+}
 
 
 #hr1{
